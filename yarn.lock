@@ -313,9 +313,9 @@
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
 
 "@web-std/blob@^3.0.3":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@web-std/blob/-/blob-3.0.3.tgz#9c54f106dd6bf5d48dc6f9019011be9437769509"
-  integrity sha512-D44q1jJ80/rjZ03PXLXkCdqkj3K2LdKN8hHwnKLY7XnqwaNd9mxKTEZNs+XcMsAqvv/0ae7QBlcBDJUty2sPag==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@web-std/blob/-/blob-3.0.4.tgz#dd67a685547331915428d69e723c7da2015c3fc5"
+  integrity sha512-+dibyiw+uHYK4dX5cJ7HA+gtDAaUUe6JsOryp2ZpAC7h4ICsh49E34JwHoEKPlPvP0llCrNzz45vvD+xX5QDBg==
   dependencies:
     "@web-std/stream" "1.0.0"
     web-encoding "1.1.5"
