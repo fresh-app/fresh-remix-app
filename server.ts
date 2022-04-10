@@ -11,21 +11,12 @@ app.use((req, res, next) => {
   res.set("x-fly-region", process.env.FLY_REGION ?? "unknown");
   res.set("Strict-Transport-Security", `max-age=${60 * 60 * 24 * 365 * 100}`);
 
-  const proto = req.get("X-Forwarded-Proto");
-  const host = req.get("X-Forwarded-Host") ?? req.get("host");
-
-  // HTTPS-upgrade
-  if (proto === "http") {
-    res.set("X-Forwarded-Proto", "https");
-    res.redirect(`https://${host}${req.originalUrl}`);
-    return;
-  }
-
   // /clean-urls/ -> /clean-urls
   if (req.path.endsWith("/") && req.path.length > 1) {
     const query = req.url.slice(req.path.length);
     const safepath = req.path.slice(0, -1).replace(/\/+/g, "/");
     res.redirect(301, safepath + query);
+    return;
   }
   next();
 });
@@ -100,7 +91,7 @@ app.listen(port, () => {
 });
 
 function purgeRequireCache() {
-  // purge require cache on requests for "server side HMR" this won't const
+  // purge require cache on requests for "server side HMR" this won't let
   // you have in-memory objects between requests in development,
   // alternatively you can set up nodemon/pm2-dev to restart the server on
   // file changes, we prefer the DX of this though, so we've included it
