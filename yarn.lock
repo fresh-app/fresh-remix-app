@@ -1151,10 +1151,10 @@
   dependencies:
     json-parse-even-better-errors "^2.3.1"
 
-"@remix-run/dev@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-1.6.0.tgz#82c73bff2e80d6c278e00f2cad3f3f2097c8fb60"
-  integrity sha512-HkyLzALaxOvOAzdG79U1PqU3rE3RUka2XYSus/qHNcHxujjkeiCbhjx2aIkxRFStTpC8pa2gWZGyNPr+IoJCpg==
+"@remix-run/dev@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-1.6.1.tgz#15f18fd5d7e180fd64887d189cf2f938dae3686b"
+  integrity sha512-4jAGIR8QphGpdBuf69qcbNFLwJcwuOIan2B9cpzCg3fzkCyEpEaS8AIHur3sALnMd//iSmn9r0dmZjG0pLUebQ==
   dependencies:
     "@babel/core" "^7.18.2"
     "@babel/plugin-syntax-jsx" "^7.17.12"
@@ -1162,7 +1162,7 @@
     "@babel/preset-typescript" "^7.17.12"
     "@esbuild-plugins/node-modules-polyfill" "^0.1.4"
     "@npmcli/package-json" "^2.0.0"
-    "@remix-run/server-runtime" "1.6.0"
+    "@remix-run/server-runtime" "1.6.1"
     cacache "^15.0.5"
     chalk "^4.1.2"
     chokidar "^3.5.1"
@@ -1195,10 +1195,10 @@
     ws "^7.4.5"
     xdm "^2.0.0"
 
-"@remix-run/eslint-config@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/eslint-config/-/eslint-config-1.6.0.tgz#6d2e8d98f1bf42c189e33fac1531ebee0e55a702"
-  integrity sha512-T2Wh2hQ4W1EMTykThWiq2Ou3laz5e1yXr+qeuARbcXbnGplheWXJ23LjXGnSGtqc9Awm055ulsW3gRoGA0whyQ==
+"@remix-run/eslint-config@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/eslint-config/-/eslint-config-1.6.1.tgz#b26efdc6fa4f6a9e7ff1c0b172b7728e67ff7b1e"
+  integrity sha512-mSeHlDctF7Nw2GvqNUi0iPWIjvBLxlQwvjJIdm65jimPxNybXwEzRkVtgqQ+A6cwPmqFLHjoBDWYanWShnb3fA==
   dependencies:
     "@babel/core" "^7.17.5"
     "@babel/eslint-parser" "^7.17.0"
@@ -1217,19 +1217,19 @@
     eslint-plugin-react-hooks "^4.3.0"
     eslint-plugin-testing-library "^5.0.5"
 
-"@remix-run/express@1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/express/-/express-1.6.0.tgz#a2dd8de73eb291087232e2068a0d0f6373cdb526"
-  integrity sha512-zsPSAwNhujfRMy49GRuER1TtCtz59O8xRWJI0MBgBDEQkt5vrMZ0g29YIfxBY8KdtwK4tjDwHFlHm+ABIuld1A==
+"@remix-run/express@1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/express/-/express-1.6.1.tgz#c9a5ab79561f18e9e010199ee20190dd8136e5db"
+  integrity sha512-/knMwCDRA1Rycjecju8fivNdRrT68qiSC2ppsyTt5sk8pt3e6qVZGEX9HuOhOoLWkhWpGePhuQ06b4qrJtclPw==
   dependencies:
-    "@remix-run/node" "1.6.0"
+    "@remix-run/node" "1.6.1"
 
-"@remix-run/node@1.6.0", "@remix-run/node@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-1.6.0.tgz#9e3e6752f7b7330ea19231cca2aa932cfde4b639"
-  integrity sha512-9hf+fHXJxondkcdh+f4ZjZtd6rEBGRf50NU35NfEn0pt5AXhgcYI/BfhAaoMafwfPLy7DSADZ3DuVg1NYq/ejA==
+"@remix-run/node@1.6.1", "@remix-run/node@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-1.6.1.tgz#dbc953ac744c6a578d4bd2eaa72288d751722390"
+  integrity sha512-IqB0K6dGjiEQD8R0iTwudScr1aj0AnsgtK3PbeA1K5gk/+VMgcbG6JlmoJxxLFnLTExONe52W6+j/b6lsFX0MA==
   dependencies:
-    "@remix-run/server-runtime" "1.6.0"
+    "@remix-run/server-runtime" "1.6.1"
     "@remix-run/web-fetch" "^4.1.3"
     "@remix-run/web-file" "^3.0.2"
     "@remix-run/web-stream" "^1.0.3"
@@ -1239,28 +1239,28 @@
     source-map-support "^0.5.21"
     stream-slice "^0.1.2"
 
-"@remix-run/react@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.6.0.tgz#17acee7d970fde447f013d5350a578d92622c6d5"
-  integrity sha512-fyCKGm0q7HvPmxNcSi1J79+5KCAAtAJwgMJU0swO0gVhHfOuV26YBTuEi4uJOFwunBIGE0bVqZCCvYpmi6ZN9w==
+"@remix-run/react@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-1.6.1.tgz#39c2dd234256df5034860abf5eca7761efe57704"
+  integrity sha512-7jg1IyE/cEz1pYRC2fk8WMmorxNam0XWUuwgDH9f7bV3DH0uyqZSemayb4QLTuJaxW/YT12CW4qyzIGvSu0YYA==
   dependencies:
     history "^5.3.0"
     react-router-dom "^6.2.2"
 
-"@remix-run/serve@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/serve/-/serve-1.6.0.tgz#ebf19fb262c5e303b2ace4e18c10f7f8bd2081a3"
-  integrity sha512-cO4xLBD73tU0HB7aOSXEKysA6qTCpyGTkXC7A2S99WV9Se/6306GLGkYo3HPEx6wD2x98abK41teFve68JOAaQ==
+"@remix-run/serve@^1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/serve/-/serve-1.6.1.tgz#0c01862c2cd3ac7dd268871ec8d53baa870ba64c"
+  integrity sha512-bXbCx9OeZEyOeWEtO2XweSj2j77GRDdHqIxI0K4lODVvQ8pUWmTTHr3hun/Mp++ZWZqsp55UvFKwEksLO4jfvw==
   dependencies:
-    "@remix-run/express" "1.6.0"
+    "@remix-run/express" "1.6.1"
     compression "^1.7.4"
     express "^4.17.1"
     morgan "^1.10.0"
 
-"@remix-run/server-runtime@1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-1.6.0.tgz#ff7617324721941eabd2f3e32e284f9df4e618a7"
-  integrity sha512-23qG0+c1yUuvKOB4R70nWW+I5m+u1jQzwwP+pEn0y9uygO6PcOvA4Y6wE1ojpSmqMANri5gLZFrM3vuRZNl6rA==
+"@remix-run/server-runtime@1.6.1":
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-1.6.1.tgz#a4d471bd3e703ba39d655efdb83e9e7e0dbdb195"
+  integrity sha512-z9ha524SQ4m+eHigHN9890F+QqirmwZlRZ6zsnhxcjg2t29MVMKPSwzETZ3IZtIpSWtHPoU/7IYJklUXIxliRA==
   dependencies:
     "@types/cookie" "^0.4.0"
     "@web3-storage/multipart-parser" "^1.0.0"
@@ -2130,9 +2130,9 @@ character-entities-legacy@^3.0.0:
   integrity sha512-RpPp0asT/6ufRm//AJVwpViZbGM/MkjQFxJccQRHmISF/22NBtsHqAWmL+/pmkPWoIUJdWyeVleTl1wydHATVQ==
 
 character-entities@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/character-entities/-/character-entities-2.0.1.tgz#98724833e1e27990dee0bd0f2b8a859c3476aac7"
-  integrity sha512-OzmutCf2Kmc+6DrFrrPS8/tDh2+DpnrfzdICHWhcVC9eOd0N1PXmQEE1a8iM4IziIAG+8tmTq3K+oo0ubH6RRQ==
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/character-entities/-/character-entities-2.0.2.tgz#2d09c2e72cd9523076ccb21157dff66ad43fcc22"
+  integrity sha512-shx7oQ0Awen/BRIdkjkvz54PnEEI/EjwXDSIZp86/KKdbafHh1Df/RYGBhn4hbe2+uKC9FnT5UCEdyPz3ai9hQ==
 
 character-reference-invalid@^2.0.0:
   version "2.0.1"
@@ -2583,9 +2583,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.164:
-  version "1.4.164"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.164.tgz#3d0f5c83557d8ec8a7faa531e498f198c3bd974a"
-  integrity sha512-K7iy5y6XyP9Pzh3uaDti0KC4JUNT6T1tLG5RTOmesqq2YgAJpYYYJ32m+anvZYjCV35llPTEh87kvEV/uSsiyQ==
+  version "1.4.166"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.166.tgz#83cd596e59c1a192425b99e6ecc64d9ffff50aff"
+  integrity sha512-ZPLdq3kcATkD6dwne5M4SgJBHw21t90BqTGzf3AceJwj3cE/ICv6jyDwHYyJoF4JNuXM3pzRxlaRmpO7pdwmcg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -4307,17 +4307,17 @@ jsonfile@^6.0.1:
     graceful-fs "^4.1.6"
 
 "jsx-ast-utils@^2.4.1 || ^3.0.0", jsx-ast-utils@^3.2.1:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/jsx-ast-utils/-/jsx-ast-utils-3.3.0.tgz#e624f259143b9062c92b6413ff92a164c80d3ccb"
-  integrity sha512-XzO9luP6L0xkxwhIJMTJQpZo/eeN60K08jHdexfD569AGxeNug6UketeHXEhROoM8aR7EcUoOQmIhcJQjcuq8Q==
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/jsx-ast-utils/-/jsx-ast-utils-3.3.1.tgz#a3e0f1cb7e230954eab4dcbce9f6288a78f8ba44"
+  integrity sha512-pxrjmNpeRw5wwVeWyEAk7QJu2GnBO3uzPFmHCKJJFPKK2Cy0cWL23krGtLdnMmbIi6/FjlrQpPyfQI19ByPOhQ==
   dependencies:
-    array-includes "^3.1.4"
+    array-includes "^3.1.5"
     object.assign "^4.1.2"
 
 keyv@^4.0.0:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.3.1.tgz#7970672f137d987945821b1a07b524ce5a4edd27"
-  integrity sha512-nwP7AQOxFzELXsNq3zCx/oh81zu4DHWwCE6W9RaeHb7OHO0JpmKS8n801ovVQC7PTsZDWtPA5j1QY+/WWtARYg==
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.3.2.tgz#e839df676a0c7ee594c8835e7c1c83742558e5c2"
+  integrity sha512-kn8WmodVBe12lmHpA6W8OY7SNh6wVR+Z+wZESF4iF5FCazaVXGWOtnbnvX0tMQ1bO+/TmOD9LziuYMvrIIs0xw==
   dependencies:
     compress-brotli "^1.3.8"
     json-buffer "3.0.1"
