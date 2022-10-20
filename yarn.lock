@@ -2106,9 +2106,9 @@ callsites@^3.0.0:
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
 caniuse-lite@^1.0.30001400:
-  version "1.0.30001421"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001421.tgz#979993aaacff5ab72a8d0d58c28ddbcb7b4deba6"
-  integrity sha512-Sw4eLbgUJAEhjLs1Fa+mk45sidp1wRn5y6GtDpHGBaNJ9OCDJaVh2tIaWWUnGfuXfKf1JCBaIarak3FkVAvEeA==
+  version "1.0.30001422"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001422.tgz#f2d7c6202c49a8359e6e35add894d88ef93edba1"
+  integrity sha512-hSesn02u1QacQHhaxl/kNMZwqVG35Sz/8DgvmgedxSH8z9UUpcDYSPYgsj3x5dQNRcNp6BwpSfQfVzYUTm+fog==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -2921,9 +2921,9 @@ eslint-plugin-react@^7.31.8:
     string.prototype.matchall "^4.0.7"
 
 eslint-plugin-testing-library@^5.6.4:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.7.3.tgz#2397e162f18899f13cee1d70a98238c1365a29bd"
-  integrity sha512-uLMVBkBI3rNOrV3mbtjLsm76X0cPac+cBNYn8ZwwvsYiDKKBXHAjZGtbjvRHEwNxwrsJm+rx4RtGWDjFRTWNuw==
+  version "5.8.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.8.0.tgz#0faed7695ba76c0021fde3aeda9b90748995d2f2"
+  integrity sha512-QzOKgu4x8WmNq4LdbHb8lz5nBR+KX5kSg5VvIdr/5f1BvHx2IoO1B/tgDa5pD/ng2LsiQ0/HIH6gsUuxpbcrkQ==
   dependencies:
     "@typescript-eslint/utils" "^5.13.0"
 
