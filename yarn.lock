@@ -1717,9 +1717,9 @@
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
 "@types/react-dom@^18.0.8":
-  version "18.0.10"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.0.10.tgz#3b66dec56aa0f16a6cc26da9e9ca96c35c0b4352"
-  integrity sha512-E42GW/JA4Qv15wQdqJq8DL4JhNpB3prJgjgapN3qJT9K2zO5IIAQh4VXvCEDupoqAwnz0cY4RlXeC/ajX5SFHg==
+  version "18.0.11"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.0.11.tgz#321351c1459bc9ca3d216aefc8a167beec334e33"
+  integrity sha512-O38bPbI2CWtgw/OoQoY+BRelw7uysmXbWvw3nLWO21H1HSh+GOlqPuXshJfjmpNlKiiSDG9cc1JZAaMmVdcTlw==
   dependencies:
     "@types/react" "*"
 
@@ -2739,9 +2739,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.295"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.295.tgz#911d5df67542bf7554336142eb302c5ec90bba66"
-  integrity sha512-lEO94zqf1bDA3aepxwnWoHUjA8sZ+2owgcSZjYQy0+uOSEclJX0VieZC+r+wLpSxUHRd6gG32znTWmr+5iGzFw==
+  version "1.4.297"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.297.tgz#366c27785049e4a31fbbc8babba31e6967d9e25f"
+  integrity sha512-dTXLXBdzfDYnZYq+bLer21HrFsEkzlR2OSIOsR+qroDmhmQU3i4T4KdY0Lcp83ZId3HnWTpPAEfhaJtVxmS/dQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -3088,9 +3088,9 @@ eslint-plugin-react@^7.31.8:
     string.prototype.matchall "^4.0.8"
 
 eslint-plugin-testing-library@^5.6.4:
-  version "5.10.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.10.1.tgz#16ef8adb74d59a4dda24db1d5e750a0ee9b79471"
-  integrity sha512-GRy87AqUi2Ij69pe0YnOXm3oGBCgnFwfIv+Hu9q/kT3jL0pX1cXA7aO+oJnvdpbJy2+riOPqGsa3iAkL888NLg==
+  version "5.10.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.10.2.tgz#12f231ad9b52b6aef45c801fd00aa129a932e0c2"
+  integrity sha512-f1DmDWcz5SDM+IpCkEX0lbFqrrTs8HRsEElzDEqN/EBI0hpRj8Cns5+IVANXswE8/LeybIJqPAOQIFu2j5Y5sw==
   dependencies:
     "@typescript-eslint/utils" "^5.43.0"
 
@@ -4521,9 +4521,9 @@ lru-cache@^6.0.0:
     yallist "^4.0.0"
 
 lru-cache@^7.14.1:
-  version "7.14.1"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.14.1.tgz#8da8d2f5f59827edb388e63e459ac23d6d408fea"
-  integrity sha512-ysxwsnTKdAx96aTRdhDOCQfDgbHnt8SK0KY8SEjO0wHinhWOFTESbjVCMPbU1uGXg/ch4lifqx0wfjOawU2+WA==
+  version "7.15.0"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-7.15.0.tgz#4437550407da5ec8c4fe0946a137fe2f7f07a171"
+  integrity sha512-LKpNuyKR1lRsqN5DatvMOkW2nmUAwI22HoQK604nhs+WiRWSIC0MFUKq2XYUKv1fCVPK9Cro4d4Il3DxM80/fQ==
 
 lz-string@^1.4.4:
   version "1.4.4"
