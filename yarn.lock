@@ -1376,9 +1376,9 @@
     json-parse-even-better-errors "^2.3.1"
 
 "@pkgr/utils@^2.3.1":
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/@pkgr/utils/-/utils-2.4.0.tgz#b6373d2504aedaf2fc7cdf2d13ab1f48fa5f12d5"
-  integrity sha512-2OCURAmRtdlL8iUDTypMrrxfwe8frXTeXaxGsVOaYtc/wrUyk8Z/0OBetM7cdlsy7ZFWlMX72VogKeh+A4Xcjw==
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@pkgr/utils/-/utils-2.4.1.tgz#adf291d0357834c410ce80af16e711b56c7b1cd3"
+  integrity sha512-JOqwkgFEyi+OROIyq7l4Jy28h/WwhDnG/cPkXG2Z1iFbubB6jsHW1NDvmyOzTBxHr3yg68YGirmh1JUgMqa+9w==
   dependencies:
     cross-spawn "^7.0.3"
     fast-glob "^3.2.12"
@@ -1742,9 +1742,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@^18.0.35":
-  version "18.2.6"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.6.tgz#5cd53ee0d30ffc193b159d3516c8c8ad2f19d571"
-  integrity sha512-wRZClXn//zxCFW+ye/D2qY65UsYP1Fpex2YXorHc8awoNamkMZSvBxwxdYVInsHOZZd2Ppq8isnSzJL5Mpf8OA==
+  version "18.2.7"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.7.tgz#dfb4518042a3117a045b8c222316f83414a783b3"
+  integrity sha512-ojrXpSH2XFCmHm7Jy3q44nXDyN54+EYKP2lBhJ2bqfyPj6cIUW/FZW/Csdia34NQgq7KYcAlHi5184m4X88+yw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -2817,9 +2817,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.405"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.405.tgz#487bdba2d82a59b092d6b6e4602bf733cec6a7ef"
-  integrity sha512-JdDgnwU69FMZURoesf9gNOej2Cms1XJFfLk24y1IBtnAdhTcJY/mXnokmpmxHN59PcykBP4bgUU98vLY44Lhuw==
+  version "1.4.406"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.406.tgz#6388f92a0443d0f0ffcda890489edbe2012488f2"
+  integrity sha512-NXlDDH8Z4tK5ZX7w9dW/lRUsZ0TwL1rg3Sw1e5HKbk3+LCAh3SyUjYyGoxOf9xNxyg+DtaofkFpHS4T5Z2Q26w==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2849,9 +2849,9 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0, end-of-stream@^1.4.1:
     once "^1.4.0"
 
 enhanced-resolve@^5.12.0:
-  version "5.14.0"
-  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.14.0.tgz#0b6c676c8a3266c99fa281e4433a706f5c0c61c4"
-  integrity sha512-+DCows0XNwLDcUhbFJPdlQEVnT2zXlCv7hPxemTz86/O+B/hCQ+mb7ydkPKiflpVraqLPCAfu7lDy+hBXueojw==
+  version "5.14.1"
+  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.14.1.tgz#de684b6803724477a4af5d74ccae5de52c25f6b3"
+  integrity sha512-Vklwq2vDKtl0y/vtwjSesgJ5MYS7Etuk5txS8VdKL4AOS1aUlD96zqIfsOSLQsdv3xgMRbtkWM8eG9XDfKUPow==
   dependencies:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
@@ -5210,9 +5210,9 @@ mkdirp@^1.0.3, mkdirp@^1.0.4:
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
 
 mlly@^1.1.0, mlly@^1.2.0:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/mlly/-/mlly-1.2.1.tgz#cd50151f5712b651c5c379085157bcdff661133b"
-  integrity sha512-1aMEByaWgBPEbWV2BOPEMySRrzl7rIHXmQxam4DM8jVjalTQDjpN2ZKOLUrwyhfZQO7IXHml2StcHMhooDeEEQ==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/mlly/-/mlly-1.3.0.tgz#3184cb80c6437bda861a9f452ae74e3434ed9cd1"
+  integrity sha512-HT5mcgIQKkOrZecOjOX3DJorTikWXwsBfpcr/MGBkhfWcjiqvnaL/9ppxvIUXfjT6xt4DVIAsN9fMUz1ev4bIw==
   dependencies:
     acorn "^8.8.2"
     pathe "^1.1.0"
@@ -5298,9 +5298,9 @@ node-fetch@^2.6.9:
     whatwg-url "^5.0.0"
 
 node-releases@^2.0.8:
-  version "2.0.11"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.11.tgz#59d7cef999d13f908e43b5a70001cf3129542f0f"
-  integrity sha512-+M0PwXeU80kRohZ3aT4J/OnR+l9/KD2nVLNNoRgFtnf+umQVFdGBAO2N8+nCnEi0xlh/Wk3zOGC+vNNx+uM79Q==
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.12.tgz#35627cc224a23bfb06fb3380f2b3afaaa7eb1039"
+  integrity sha512-QzsYKWhXTWx8h1kIvqfnC++o0pEmpRQA/aenALsL2F4pqNVr7YzcdMlDij5WBnwftRbJCNJL/O7zdKaxKPHqgQ==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
