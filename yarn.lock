@@ -1790,9 +1790,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@^18.0.35":
-  version "18.2.13"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.13.tgz#a98c09bde8b18f80021935b11d2d29ef5f4dcb2f"
-  integrity sha512-vJ+zElvi/Zn9cVXB5slX2xL8PZodPCwPRDpittQdw43JR2AJ5k3vKdgJJyneV/cYgIbLQUwXa9JVDvUZXGba+Q==
+  version "18.2.14"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.14.tgz#fa7a6fecf1ce35ca94e74874f70c56ce88f7a127"
+  integrity sha512-A0zjq+QN/O0Kpe30hA1GidzyFjatVvrpIvWLxD+xv67Vt91TWWgco9IvrJBkeyHm1trGaFS/FSGqPlhyeZRm0g==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -2418,9 +2418,9 @@ callsites@^3.0.0:
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
 caniuse-lite@^1.0.30001503:
-  version "1.0.30001506"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001506.tgz#35bd814b310a487970c585430e9e80ee23faf14b"
-  integrity sha512-6XNEcpygZMCKaufIcgpQNZNf00GEqc7VQON+9Rd0K1bMYo8xhMZRAo5zpbnbMNizi4YNgIDAFrdykWsvY3H4Hw==
+  version "1.0.30001507"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001507.tgz#fae53f6286e7564783eadea9b447819410a59534"
+  integrity sha512-SFpUDoSLCaE5XYL2jfqe9ova/pbQHEmbheDf5r4diNwbAgR3qxM9NQtfsiSscjqoya5K7kFcHPUQ+VsUkIJR4A==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -2872,9 +2872,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.431:
-  version "1.4.438"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.438.tgz#425f0d51862d36f90817d6dfb7fa2a53ff6a0a73"
-  integrity sha512-x94U0FhphEsHsOloCvlsujHCvoir0ZQ73ZAs/QN4PLx98uNvyEU79F75rq1db75Bx/atvuh7KPeuxelh+xfYJw==
+  version "1.4.440"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.440.tgz#d3b1eeb36b717eb479a240c0406ac1fa67901762"
+  integrity sha512-r6dCgNpRhPwiWlxbHzZQ/d9swfPaEJGi8ekqRBwQYaR3WmA5VkqQfBWSDDjuJU1ntO+W9tHx8OHV/96Q8e0dVw==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -5205,9 +5205,9 @@ minimatch@^3.0.4, minimatch@^3.0.5, minimatch@^3.1.1, minimatch@^3.1.2:
     brace-expansion "^1.1.7"
 
 minimatch@^9.0.0:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.1.tgz#8a555f541cf976c622daf078bb28f29fb927c253"
-  integrity sha512-0jWhJpD/MdhPXwPuiRkCbfYfSKp2qnn2eOc279qI7f+osl/l+prKSrvhg157zSYvx/1nmgn2NqdT6k2Z7zSH9w==
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-9.0.2.tgz#397e387fff22f6795844d00badc903a3d5de7057"
+  integrity sha512-PZOT9g5v2ojiTL7r1xF6plNHLtOeTpSlDI007As2NlA2aYBMfVom17yqa6QzhmDP8QOhn7LjHTg7DFCVSSa6yg==
   dependencies:
     brace-expansion "^2.0.1"
 
