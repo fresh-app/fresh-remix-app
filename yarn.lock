@@ -1915,9 +1915,9 @@
     "@babel/core" "^7.20.7"
 
 "@vanilla-extract/css@^1.10.0":
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/@vanilla-extract/css/-/css-1.11.1.tgz#0669e0b237d50561d669d8be6246dd601552be1a"
-  integrity sha512-iLalh4K4sXgkfzsiFUsiek4IY1/N4jtJKdr1ubpyszPE7W7G2v+DAl8KcmKkRA6vS7k5mFNW34e4fNki6T2cbQ==
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/@vanilla-extract/css/-/css-1.12.0.tgz#aa7af9a5afac97d0cbabbc2387ab1a7adc6c8cb2"
+  integrity sha512-TEttZfnqTRtwgVYiBWQSGGUiVaYWReHp59DsavITEvh4TpJNifZFGhBznHx4wQFEsyio6xA513jps4tmqR6zmw==
   dependencies:
     "@emotion/hash" "^0.9.0"
     "@vanilla-extract/private" "^1.0.3"
@@ -2875,9 +2875,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.431:
-  version "1.4.444"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.444.tgz#a05bf992e361e8d4c55d43fab354af6bc5758fdb"
-  integrity sha512-/AjkL4syRvOpowXWy3N4OHmVbFdWQpfSKHh0sCVYipDeEAtMce3rLjMJi/27Ia9jNIbw6P1JuPN32pSWybXXEQ==
+  version "1.4.445"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.445.tgz#058d2c5f3a2981ab1a37440f5a5e42d15672aa6d"
+  integrity sha512-++DB+9VK8SBJwC+X1zlMfJ1tMA3F0ipi39GdEp+x3cV2TyBihqAgad8cNMWtLDEkbH39nlDQP7PfGrDr3Dr7HA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -5351,9 +5351,9 @@ node-addon-api@^1.7.1:
   integrity sha512-ibPK3iA+vaY1eEjESkQkM0BbCqFOaZMiXRTtdB0u7b4djtY6JnsjvPdUHVMg6xQt3B8fpTTWHI9A+ADjM9frzg==
 
 node-fetch@^2.6.9:
-  version "2.6.11"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.11.tgz#cde7fc71deef3131ef80a738919f999e6edfff25"
-  integrity sha512-4I6pdBY1EthSqDmJkiNk3JIT8cswwR9nfeW/cPdUagJYEQG7R95WRH74wpz7ma8Gh/9dI9FP+OU+0E4FvtA55w==
+  version "2.6.12"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.12.tgz#02eb8e22074018e3d5a83016649d04df0e348fba"
+  integrity sha512-C/fGU2E8ToujUivIO0H+tpQ6HWo4eEmchoPIoXtxCrVghxdKq+QOHqEZW7tuP3KlV3bC8FRMO5nMCC7Zm1VP6g==
   dependencies:
     whatwg-url "^5.0.0"
 
