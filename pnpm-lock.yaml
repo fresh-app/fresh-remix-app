@@ -1392,8 +1392,8 @@ packages:
     resolution: {integrity: sha512-nG96G3Wp6acyAgJqGasjODb+acrI7KltPiRxzHPXnP3NgI28bpQDRv53olbqGXbfcgF5aiiHmO3xpwEpS5Ld9g==}
     dev: true
 
-  /@types/node@20.11.19:
-    resolution: {integrity: sha512-7xMnVEcZFu0DikYjWOlRq7NTPETrm7teqUT2WkQjrTIkEgUyyGdWsj/Zg8bEJt5TNklzbPD1X3fqfsHw3SpapQ==}
+  /@types/node@20.11.20:
+    resolution: {integrity: sha512-7/rR21OS+fq8IyHTgtLkDK949uzsa6n8BkziAKtPVpugIkO6D+/ooXMvzXxDnZrmtXVfjb1bKQafYpb8s89LOg==}
     dependencies:
       undici-types: 5.26.5
     dev: true
@@ -1925,8 +1925,8 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001588
-      electron-to-chromium: 1.4.679
+      caniuse-lite: 1.0.30001589
+      electron-to-chromium: 1.4.680
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
     dev: true
@@ -1993,8 +1993,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /caniuse-lite@1.0.30001588:
-    resolution: {integrity: sha512-+hVY9jE44uKLkH0SrUTqxjxqNTOWHsbnQDIKjwkZ3lNTzUUVdBLBGXtj/q5Mp5u98r3droaZAewQuEDzjQdZlQ==}
+  /caniuse-lite@1.0.30001589:
+    resolution: {integrity: sha512-vNQWS6kI+q6sBlHbh71IIeC+sRwK2N3EDySc/updIGhIee2x5z00J4c1242/5/d6EpEMdOnk/m+6tuk4/tcsqg==}
     dev: true
 
   /ccount@2.0.1:
@@ -2328,8 +2328,8 @@ packages:
   /ee-first@1.1.1:
     resolution: {integrity: sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==}
 
-  /electron-to-chromium@1.4.679:
-    resolution: {integrity: sha512-NhQMsz5k0d6m9z3qAxnsOR/ebal4NAGsrNVRwcDo4Kc/zQ7KdsTKZUxZoygHcVRb0QDW3waEDIcE3isZ79RP6g==}
+  /electron-to-chromium@1.4.680:
+    resolution: {integrity: sha512-4nToZ5jlPO14W82NkF32wyjhYqQByVaDmLy4J2/tYcAbJfgO2TKJC780Az1V13gzq4l73CJ0yuyalpXvxXXD9A==}
     dev: true
 
   /emoji-regex@8.0.0:
@@ -2871,7 +2871,7 @@ packages:
     resolution: {integrity: sha512-EzV94NYKoO09GLXGjXj9JIlXijVck4ONSr5wiCWDvhsvj5jxSrzTmRU/9C1DyB6uToszLs8aifA6NQ7lEQdvFw==}
     engines: {node: '>= 0.8'}
     dependencies:
-      '@types/node': 20.11.19
+      '@types/node': 20.11.20
       require-like: 0.1.2
     dev: true
 
