@@ -1183,8 +1183,8 @@ packages:
   concat-map@0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
 
-  confbox@0.1.7:
-    resolution: {integrity: sha512-uJcB/FKZtBMCJpK8MQji6bJHgu1tixKPxRLeGkNzBoOZzpnZUJm0jm2/sBDWcuBx1dYgxV4JU+g5hmNxCyAmdA==}
+  confbox@0.1.8:
+    resolution: {integrity: sha512-RMtmw0iFkeR4YV+fUOSucriAQNb9g8zFR52MWCtl+cCZOFRNL6zeB395vPzFhEjjn4fMxXudmELnl/KF/WrK6w==}
 
   content-disposition@0.5.4:
     resolution: {integrity: sha512-FveZTNuGw04cxlAiWbzi6zTAL/lhehaWbTtgluJh4/E95DqMwTmha3KZN1aAWA8cFIhHzMZUvLevkw5Rqk+tSQ==}
@@ -2389,8 +2389,8 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
-  mlly@1.7.1:
-    resolution: {integrity: sha512-rrVRZRELyQzrIUAVMHxP97kv+G786pHmOKzuFII8zDYahFBS7qnHh2AlYSl1GAHhaMPCz6/oHjVMcfFYgFYHgA==}
+  mlly@1.7.2:
+    resolution: {integrity: sha512-tN3dvVHYVz4DhSXinXIk7u9syPYaJvio118uomkovAtWBT+RdbP6Lfh/5Lvo519YMmwBafwlh20IPTXIStscpA==}
 
   modern-ahocorasick@1.0.1:
     resolution: {integrity: sha512-yoe+JbhTClckZ67b2itRtistFKf8yPYelHLc7e5xAwtNAXxM6wJTUx2C7QeVSJFDzKT7bCIFyBVybPMKvmB9AA==}
@@ -4314,7 +4314,7 @@ snapshots:
       find-up: 5.0.0
       javascript-stringify: 2.1.0
       lodash: 4.17.21
-      mlly: 1.7.1
+      mlly: 1.7.2
       outdent: 0.8.0
       vite: 5.4.8(@types/node@22.7.4)
       vite-node: 1.6.0(@types/node@22.7.4)
@@ -4666,7 +4666,7 @@ snapshots:
 
   concat-map@0.0.1: {}
 
-  confbox@0.1.7: {}
+  confbox@0.1.8: {}
 
   content-disposition@0.5.4:
     dependencies:
@@ -5803,7 +5803,7 @@ snapshots:
 
   local-pkg@0.5.0:
     dependencies:
-      mlly: 1.7.1
+      mlly: 1.7.2
       pkg-types: 1.2.0
 
   locate-path@6.0.0:
@@ -6233,7 +6233,7 @@ snapshots:
 
   mkdirp@1.0.4: {}
 
-  mlly@1.7.1:
+  mlly@1.7.2:
     dependencies:
       acorn: 8.12.1
       pathe: 1.1.2
@@ -6473,8 +6473,8 @@ snapshots:
 
   pkg-types@1.2.0:
     dependencies:
-      confbox: 0.1.7
-      mlly: 1.7.1
+      confbox: 0.1.8
+      mlly: 1.7.2
       pathe: 1.1.2
 
   possible-typed-array-names@1.0.0: {}
